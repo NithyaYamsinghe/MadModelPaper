@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ModelPaper2020</string>
+    <string name="textViewUsername">User Name</string>
+    <string name="textViewPassword">Password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonRegister">Register</string>
+    <string name="textViewProfUsername">User Name</string>
+    <string name="textViewProfDateofBirth">Date of Birth</string>
+    <string name="textViewProfPassword">Password</string>
+    <string name="textViewProfGender">Gender</string>
+    <string name="radioButtonProfMale">Male</string>
+    <string name="radioButtonProfFemale">Female</string>
+    <string name="buttonUpdateProf">Update Profile</string>
+    <string name="buttonEditProf">Update</string>
+    <string name="buttonEditDelete">Delete</string>
+    <string name="buttonEditSearch">Search</string>
+</resources>
